@@ -1,7 +1,7 @@
 package monCarlo;
 
 /**
- * Handle to core calculations of MonteCarlo Simulation 
+ * Handle the core calculations of MonteCarlo Simulation 
  * 
  * @author Amin
  *
